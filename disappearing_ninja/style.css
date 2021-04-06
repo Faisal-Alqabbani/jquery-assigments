@@ -1,0 +1,21 @@
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 950px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.container img {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  border: 1px solid black;
+}
+button {
+  width: 100px;
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+}
